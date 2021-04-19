@@ -1,0 +1,103 @@
+body {
+  background-image: url(sfondo.jpg);
+  background-size: cover;
+}
+
+.fullblock{
+  margin-left: 10%;
+  margin-right: 10%;
+  border-radius: 1%;
+  display: block;
+  background-color: black;
+  opacity: 0.7;
+  padding: 1px;
+}
+
+
+img {
+  width: 12%;
+  align-content: center;
+  margin-top: 3%;
+}
+
+.logoetitolo{
+  text-align: center;
+}
+
+#title{
+  color: #00FF00;
+}
+
+.buttons{
+  text-align: center;
+  margin-left: 10%;
+  margin-right: 10%;
+  display: block;
+  background-color: lime;
+  padding: 10px;
+
+}
+
+.tutti-i-monopattini{
+  margin-bottom: 5%;
+  margin-right: 68%;
+
+}
+
+.info-Gino22{
+  margin-left: 30%;
+  font-size: 80%;
+  font-style: normal;
+  color: white;
+}
+
+#hr22 {
+  border-radius: 7%;
+  display: block;
+  padding: 10px;
+  background-color: orange;
+}
+
+.info-Mike24{
+  margin-left: 30%;
+  font-size: 80%;
+  font-style: normal;
+  color: white;
+}
+
+#hr24 {
+  border-radius: 5%;
+  display: block;
+  padding: 10px;
+  background-color: lime;
+  width: 180%;
+}
+
+.info-Fedel154{
+  margin-left: 30%;
+  font-size: 80%;
+  font-style: normal;
+  color: white;
+}
+
+#hr154{
+  border-radius: 5%;
+  display: block;
+  padding: 10px;
+  background-color: red;
+  margin-right: 70%;
+}
+
+#Gino22 {
+  display: inline-block;
+}
+
+.info-Mike24{
+  margin-left: 30%;
+  font-size: 80%
+}
+
+.info-Fedel154{
+  margin-left: 30%;
+  font-size: 80%
+}
